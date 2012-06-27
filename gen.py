@@ -5,7 +5,7 @@ header = """
 <html>
   <head>
     <meta charset="utf-8">
-    <title>HipChat emoticons</title>
+    <title>TEST emoticons</title>
     <!--[if lt IE 9]>
       <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
